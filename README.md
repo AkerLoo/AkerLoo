@@ -1,4 +1,4 @@
- # Printf ("Hellow World!"); eu sou Guilherme Liborio Machado, criador de conteúdo de programação.
+ # Olá meu nome é Guilherme Liborio Machado, e sou criador de conteúdo de programação.
 
 <div align="center">
   <a href="https://github.com/AkerLoo">
