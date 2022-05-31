@@ -1,7 +1,7 @@
  # Printf ("Hellow World!"); eu sou Guilherme Liborio Machado, criador de conteúdo de programação.
 
 <div align="center">
-  <a href="https://github.com/Akerloo">
+  <a href="https://github.com/AkerLoo">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akerloo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerloo&layout=compact&langs_count=7&theme=dark"/>
 </div>
